@@ -3,11 +3,14 @@
 
 SINTAXE:
 
-arealateral(raio, altura)
+arealateral(raio, altura_cilindro)
 
-areatotal(raio, altura)
+areatotal(raio, altura_cilindro)
 
-volcilindro(raio, altura)
+arealateral*raio, altura_cilindro)
+
+volcilindro(raio, altura_cilindro)
+
 """
 module CalCL
 
