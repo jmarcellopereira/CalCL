@@ -7,7 +7,7 @@ arealateral(raio, altura_cilindro)
 
 areatotal(raio, altura_cilindro)
 
-arealateral*raio, altura_cilindro)
+arealateral(raio, altura_cilindro)
 
 volcilindro(raio, altura_cilindro)
 
